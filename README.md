@@ -1,5 +1,4 @@
-# greenify-fresh-global-main
-Greenify
+# Welcome to your Lovable project
 
 ## Project info
 
